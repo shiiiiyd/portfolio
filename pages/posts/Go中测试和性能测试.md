@@ -73,7 +73,7 @@ func TestTriangle(t *testing.T) {
 
 在 Goland 代码编辑器中集成了各种测试方法，如下图3-1:
 
-![图3-1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/71765b92-2e69-4275-9148-05cb03c0b189/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230101T084857Z&X-Amz-Expires=86400&X-Amz-Signature=7ca80a2b814a7c71de87805df30fcfda08cb2e36422a0d18bd80c08902ea81de&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![3-1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/71765b92-2e69-4275-9148-05cb03c0b189/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230101T084857Z&X-Amz-Expires=86400&X-Amz-Signature=7ca80a2b814a7c71de87805df30fcfda08cb2e36422a0d18bd80c08902ea81de&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 **命令行测试代码覆盖率**
 
@@ -136,7 +136,7 @@ Flags:
 
 这里使用 ` go tool cover -html=c.out ` 命令查看代码覆盖率，显示为html页面，如图3-2所示：
 
-![图3-2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c414e4aa-ff1d-4b72-9f04-1b9d57f4a869/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230101T080021Z&X-Amz-Expires=86400&X-Amz-Signature=923364a91a31452e1a6a5fec9acd22703622ef25841a0ae02f43bc490a1c03d0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![3-2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c414e4aa-ff1d-4b72-9f04-1b9d57f4a869/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230101T080021Z&X-Amz-Expires=86400&X-Amz-Signature=923364a91a31452e1a6a5fec9acd22703622ef25841a0ae02f43bc490a1c03d0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 **Benchmark 性能测试，测试代码如下：**
 
@@ -204,4 +204,4 @@ Entering interactive mode (type "help" for commands, "o" for options)
 (pprof)
 ```
 
-![图 3-3](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ff644e62-5f03-4040-b5a4-12ef1bb5975f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230101T085339Z&X-Amz-Expires=86400&X-Amz-Signature=03ce2fadcb2c16f1b51ebb040af9a284fe23998f82f106e058a8ac2ba18079b8&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![3-3](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ff644e62-5f03-4040-b5a4-12ef1bb5975f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230101T085339Z&X-Amz-Expires=86400&X-Amz-Signature=03ce2fadcb2c16f1b51ebb040af9a284fe23998f82f106e058a8ac2ba18079b8&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
