@@ -73,7 +73,7 @@ func TestTriangle(t *testing.T) {
 
 在 Goland 代码编辑器中集成了各种测试方法，如下图3-1:
 
-![3-1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/71765b92-2e69-4275-9148-05cb03c0b189/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230101T084857Z&X-Amz-Expires=86400&X-Amz-Signature=7ca80a2b814a7c71de87805df30fcfda08cb2e36422a0d18bd80c08902ea81de&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![3-1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/71765b92-2e69-4275-9148-05cb03c0b189/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230103%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230103T050036Z&X-Amz-Expires=86400&X-Amz-Signature=8745c8741bc6b1dfe3a6473677c1e9a4c5954a94f19b3a26699b70cf6660752f&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 **命令行测试代码覆盖率**
 
