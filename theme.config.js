@@ -9,7 +9,7 @@ export default {
         a {
           float: right;
         }
-        @media screen and (max-width: 480px) {
+        @media screen and (max-width: 520px) {
           article {
             padding-top: 2rem;
             padding-bottom: 4rem;
