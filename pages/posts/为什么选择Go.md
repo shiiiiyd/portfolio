@@ -1,10 +1,11 @@
 ---
-title: Go中代码测试和性能测试
+title: 为什么选择Go
 date: 2021/10/17
-description: Go中的代码测试和性能测试简单方法
+description: 何为Runtime、Go的编译过程、Go语言是如何运行的
 tag: Go
 author: shiyd
 ---
+
 
 直接编译成二进制，没有虚拟化损失；自带运行环境，无需处理GC问题；一次编译可以适用多种平台；超强的并发支持和易用性。
 
